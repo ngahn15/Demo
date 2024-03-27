@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Luu</name>
+   <tag></tag>
+   <elementGuidId>02898c7c-dfaf-489e-b8ac-c20507cb2d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-v2-fx']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button.ok.-success.-rounded.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Lưu lại&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9e3c9dc-bc97-45ed-aa0a-0c5d8b58d960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button ok -success -rounded bold</value>
+      <webElementGuid>2e9bed7d-68e6-449c-8469-789d70a9865c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lưu lại</value>
+      <webElementGuid>99a39492-7215-43ab-a88a-f1d64130cb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-v2-fx&quot;)/div[@class=&quot;form-buttons -two&quot;]/div[@class=&quot;button ok -success -rounded bold&quot;]</value>
+      <webElementGuid>1143a3e9-e917-418d-8f24-ccd7c4260254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-v2-fx']/div[2]/div</value>
+      <webElementGuid>a5d7d9ae-6683-4a00-9a6f-5ab1110e8638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuỳ chọn'])[1]/following::div[13]</value>
+      <webElementGuid>569bc379-40aa-4197-88da-df687909273b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ qua'])[2]/preceding::div[1]</value>
+      <webElementGuid>a09ab529-4a32-48a4-b64b-591cf073c208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lưu lại']/parent::*</value>
+      <webElementGuid>52e2bc33-6ea3-4999-9030-3091ba44ce5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/div[2]/div</value>
+      <webElementGuid>610935e7-b2b4-4a76-a77a-89f5497cf4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lưu lại' or . = 'Lưu lại')]</value>
+      <webElementGuid>f668569e-de4d-44b3-87ec-e851f2a66ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
